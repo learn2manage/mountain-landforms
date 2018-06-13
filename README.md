@@ -6,3 +6,4 @@ Images are copied from Internet, will promptly remove it upon request by the own
 Names | Chinese | Japanese | Descriptions | Images
 ----- | ------- | -------- | ------------ | -----------
 Arête | 刃脊 | アレート | <ul><li>a narrow ridge of rock which separates two valleys</li><li>A small ridge-like feature or a sharp outward facing corner on a steep rock face</li></ul> | ![image](https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Arete_Crib_Goch_Snowdonia_Wales.jpg) ![image](https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Arete_Pregnant_Pause_Climbing.jpg)
+Aiguille, needle | 針峰、尖峰 | 針峰 | A sharply pointed mountain peak, especially one of several on a larger massif. | ![image](https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Aiguille-du-Dru-2006.jpg)
