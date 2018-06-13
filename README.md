@@ -18,17 +18,14 @@ Images are copied from Internet, will promptly remove it upon request by the own
         <tr> <td> 刃脊 </td> </tr>
         <tr> <td>  アレート </td> </tr> 
 		<tr>
-            <td colspan=2><img src="https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Arete_Crib_Goch_Snowdonia_Wales.jpg" height="200px"></img> <img src="https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Arete_Pregnant_Pause_Climbing.jpg"  height="200px"></img> </td>            </tr>
-       
+            <td colspan=2><img src="https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Arete_Crib_Goch_Snowdonia_Wales.jpg" height="200px"></img> <img src="https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Arete_Pregnant_Pause_Climbing.jpg"  height="200px"></img> </td>            </tr>       
 		<tr>
-			<td>Aiguille, needle 
+			<td>Aiguille, needle </td>
 			<td rowspan=3> A sharply pointed mountain peak, especially one of several on a larger massif.</td> </tr>
 		<tr> <td> 針峰、尖峰  </td> </tr>
 		<tr> <td> 針峰 </td> </tr>
-
 		<tr>
 			<td colspan=2><img src="https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Aiguille-du-Dru-2006.jpg" height="200px"></img> <img src="https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Aiguille-Cerro_torre_1987.jpg" height="200px"></img></td>		</tr> 
-			
 			<tr>
             <td>alluvial fan </td>
             <td rowspan=3>desc</td> </tr>
