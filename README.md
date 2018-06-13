@@ -17,14 +17,34 @@ Aiguille, needle | 針峰、尖峰 | 針峰 | A sharply pointed mountain peak, e
 
 -------------------------------------------------
 Layout 2
+ 
+ <table>
+        <tr>
+            <td>Arête</td>
+            <td>刃脊</td>
+            <td>アレート</td>
+        </tr>
+        <tr>
+          <td colspan=3>a narrow ridge of rock which separates two valleys</td>
+        </tr>
+        <tr>
+         <td colspan=3><img src="https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Arete_Crib_Goch_Snowdonia_Wales.jpg" height="200px"></img> <img src="https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Arete_Pregnant_Pause_Climbing.jpg"  height="200px"></img> </td>
+        </tr>
+<tr>
+ <td>Aiguille, needle </td>
+ <td>針峰、尖峰
+ <td>針峰
+</tr>
+<tr>
+ <td colspan=3> A sharply pointed mountain peak, especially one of several on a larger massif.</td>
+ </tr>
+ <tr>
+ <td colspan=3>
+  <img src="https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Aiguille-du-Dru-2006.jpg" height="200px"></img>
+  </td>
+  </tr>
+ 
+  
+</table>
 
- Arête | 刃脊 | アレート 
- -- | -- | --
- 
- a narrow ridge of rock which separates two valleys
- 
- ![image](https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Arete_Crib_Goch_Snowdonia_Wales.jpg) ![image](https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Arete_Pregnant_Pause_Climbing.jpg) 
-
- 
  -------------------------------------------------
- 
