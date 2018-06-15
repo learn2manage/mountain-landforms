@@ -77,5 +77,25 @@ Layout 3
 </table>
 
 --------------------
-
+Table Test
+ <table>
+        <tr>
+            <td>Arête  </td>
+            <td rowspan=3><li>a narrow ridge of rock which separates two valleys 
+                           <li>A small ridge-like feature or a sharp outward facing corner on a steep rock face</td>
+	<td rowspan=3><li>Half Dome, Yosemite (larger scale)<li>Steve's Arête, Mount Lemmon<li>Arrowhead Arête (5.8), Yosemite (route scale)</td></tr>
+        <tr> <td> 刃脊 </td> </tr>
+        <tr> <td>  アレート </td> </tr> 
+		<tr>
+            <td colspan=3><img src="https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Arete_Crib_Goch_Snowdonia_Wales.jpg" height="200px"></img> <img src="https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Arete_Pregnant_Pause_Climbing.jpg"  height="200px"></img> </td>            </tr>       
+		<tr>
+			<td>Aiguille, needle </td>
+			<td rowspan=3> A sharply pointed mountain peak, especially one of several on a larger massif.</td>
+	<td rowspan=3><li>Cerro Torre, Patagonia<li>Aiguille du Midi, Mount Blanc<li>Aiguille du Dru, French Alps</td>
+</tr>
+		<tr> <td> 針峰、尖峰  </td> </tr>
+		<tr> <td> 針峰 </td> </tr>
+		<tr>
+			<td colspan=3><img src="https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Aiguille-du-Dru-2006.jpg" height="200px"></img> <img src="https://raw.githubusercontent.com/learn2manage/mountain-landforms/master/images/Aiguille-Cerro_torre_1987.jpg" height="200px"></img></td>		</tr> 
+</table>
   
