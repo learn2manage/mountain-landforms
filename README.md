@@ -7,9 +7,7 @@ Images are copied from Internet, will promptly remove it upon request by the own
 1. Evaluate and select a better layout
 2. Filling data
 3. Finding images
--------------------------------------------------
-
- 
+------------------------------------------------- 
  <table>
         <tr>
             <td>Arête  </td>
